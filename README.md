@@ -10,7 +10,6 @@ This isn’t just another license system—it’s a powerhouse designed to make 
 
 - **Node.js Support**: Runs smoothly with Node.js for easy integration.
 - **Discord Bot Support**: Manage licenses right from your Discord server.
-- **Web Dashboard**: A secure site to monitor and manage licenses.
 - **Top-Notch Security**: Protects against phishing and unauthorized license checks.
 - **Free Data Storage**: No extra costs for storing license data.
 - **Rate Limiting**: Keeps your server safe from spam requests.
