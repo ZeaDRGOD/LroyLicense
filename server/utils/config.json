@@ -1,0 +1,6 @@
+{
+  "hostIP": "127.0.0.1",
+  "hostPort": "3000",
+  "apiKey": "PutYourRandomKeyHere",
+  "maxRateLimit": "100"
+}

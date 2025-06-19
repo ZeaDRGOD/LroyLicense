@@ -1,0 +1,15 @@
+{
+  "RRYDU-APW7R-WM6KN": {
+    "clientId": "L4oySt0rm",
+    "discordId": "947464447637716997",
+    "product": "magictools",
+    "productName": "MagicTools",
+    "licenseKey": "RRYDU-APW7R-WM6KN",
+    "ipLimit": 1,
+    "ipList": [
+      "192.168.1.7"
+    ],
+    "expiresAt": "Permanent",
+    "status": "active"
+  }
+}
