@@ -1,6 +1,6 @@
 {
-  "botToken": "MTM4NDYzNDY2OTUxNzExNTc1Ng.GehEPl.-vLV2769vfzaFvem4FkekeFpBqM7YxUbYZvTx8",
-  "clientId": "1384634669517115756",
-  "guildId": "1234108865247707176",
-  "admins": ["947464447637716997"]
+  "botToken": "put discord token",
+  "clientId": "put bot discord id",
+  "guildId": "put server id discord",
+  "admins": ["put your id discord"]
 }

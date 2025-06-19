@@ -37,7 +37,7 @@ Getting started is a breeze with just **two steps**:
 1. **Install Dependencies**:
    Open your terminal and run:
    ```bash
-   npm install express express-rate-limit discord.js
+   npm install express express-rate-limit discord.js node-fetch@2
    ```
 
 2. **Start the Server**:
